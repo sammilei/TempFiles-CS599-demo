@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>40.jpg</filename>
+  <path>/media/psf/YOLO/Dataset/OpenLabeling/main/input/40.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>424</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>backpack</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin>139</ymin>
+      <xmax>238</xmax>
+      <ymax>166</ymax>
+    </bndbox>
+  </object>
+</annotation>

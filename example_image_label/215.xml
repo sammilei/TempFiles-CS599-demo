@@ -1,0 +1,26 @@
+<annotation>
+  <folder>input</folder>
+  <filename>215.jpg</filename>
+  <path>/media/psf/YOLO/Dataset/OpenLabeling/main/input/215.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>424</width>
+    <height>240</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>fire_extinguisher</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>183</xmin>
+      <ymin>70</ymin>
+      <xmax>231</xmax>
+      <ymax>165</ymax>
+    </bndbox>
+  </object>
+</annotation>
