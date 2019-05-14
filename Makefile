@@ -53,7 +53,7 @@ endif
 
 CC=gcc
 CPP=g++
-NVCC=/usr/local/cuda-10.0/bin/nvcc 
+NVCC=/usr/local/cuda/bin/nvcc 
 OPTS=-Ofast
 LDFLAGS= -lm -pthread 
 COMMON= -Iinclude/ 
